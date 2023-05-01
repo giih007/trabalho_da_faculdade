@@ -1,0 +1,42 @@
+body  {
+    background-color: rgb(184, 195, 255);
+}
+
+h1 {font-size: 30px;
+   text-align: center;
+   color: rgb(5, 14, 44);
+}
+
+p {
+  font-size: 17px;
+  text-align: center;
+  background-color: cadetblue;
+  color: black;
+  
+}
+
+footer p {
+  margin-top: 2px;
+}
+
+.container {
+padding: 0px 50px;
+}
+
+.contact form input{
+  width: 100%;
+  padding: 8px;
+  margin: 8px;
+}
+
+.contact form input[type = text] {
+height: 100px;
+}
+
+button{
+  color: black;
+  background-color: white;
+  border: none;
+  width: 100px;
+  height: 30px;
+}
